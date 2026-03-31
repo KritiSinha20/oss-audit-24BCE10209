@@ -1,7 +1,7 @@
 # Open Source Audit: Linux Kernel
 
-Student Name: Sandhya Kumari  
-Roll Number:  24BCY10154  
+Student Name: kriti Sinha  
+Roll Number:  24BCE10209  
 Course: Open Source Software (Linux Administration)  
 Chosen Software: Linux Kernel  
 
